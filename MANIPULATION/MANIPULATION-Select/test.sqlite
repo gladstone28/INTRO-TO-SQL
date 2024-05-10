@@ -1,0 +1,19 @@
+/*
+1.
+Let’s take a closer look at SELECT 
+and retrieve all the names in the celebs table. 
+In the code editor, type:SELECT name FROM celebs
+*/
+
+SELECT name FROM celebs;
+
+/*
+Delete your previous SELECT statement from the code editor.
+
+To SELECT all the data in the celebs table, enter the following 
+statement 
+in the code editor using the * wildcard character:
+SELECT * FROM celebs;
+*/
+
+SELECT * FROM celebs;

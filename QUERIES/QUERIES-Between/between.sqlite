@@ -1,0 +1,4 @@
+SELECT *
+FROM movies
+WHERE year BETWEEN 1979 AND 1989;
+
