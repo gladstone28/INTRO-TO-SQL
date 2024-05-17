@@ -1,0 +1,13 @@
+
+SELECT * FROM celebs;
+
+
+
+/*
+Hint
+
+SELECT and FROM are the clauses here.
+We are applying the command to the celebs table.
+Soon you will learn more about each part of this statement!
+
+*/
