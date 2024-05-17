@@ -17,3 +17,21 @@ ADD COLUMN twitter_handle TEXT;
 - twitter_handle is the name of the new column being added
 - TEXT is the data type for the new column
 4. NULL is a special value in SQL that represents missing or unknown data. Here, the rows that existed before the column was added have NULL (∅) values for twitter_handle.
+
+
+### Instructions
+Checkpoint 1 Passed
+1. Add a new column to the table. In the code editor, type:
+```
+ALTER TABLE celebs 
+ADD COLUMN twitter_handle TEXT; 
+
+SELECT * FROM celebs; 
+```
+
+Hint
+
+Common errors:
+
+- Missing the complete ADD COLUMN syntax.
+- Missing the data type for the new column.
