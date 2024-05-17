@@ -2,6 +2,7 @@ link to lesson:
 
 https://www.codecademy.com/courses/intro-to-sql/lessons/manipulation/exercises/delete
 
+https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/working-with-your-first-database/lessons/manipulation/exercises/delete
 
 MANIPULATION
 Delete

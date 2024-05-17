@@ -1,18 +1,13 @@
  DELETE FROM celebs 
 WHERE twitter_handle IS NULL;
+
+/* 
+SELECT * FROM celebs; 
+*/
+
+
+
+ DELETE FROM celebs 
+WHERE twitter_handle IS NULL;
  
 SELECT * FROM celebs; 
-
-
-/*
-1.
-Delete all of the rows that have a NULL value in the twitter handle column. In the code editor, type the following:
-```
-DELETE FROM celebs 
-WHERE twitter_handle IS NULL;
-
-SELECT * FROM celebs; 
-```
-How many rows exist in the celebs table now?
-
-*/
